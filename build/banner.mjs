@@ -1,20 +1,3 @@
-import fs from 'node:fs/promises'
-import path from 'node:path'
-import { fileURLToPath } from 'node:url'
-
-const __dirname = path.dirname(fileURLToPath(import.meta.url))
-
-const pkgJson = path.join(__dirname, '../package.json')
-const pkg = JSON.parse(await fs.readFile(pkgJson, 'utf8'))
-
-const year = new Date().getFullYear()
-
-function getBanner(pluginFilename) {
-  return `/*!
-  * Bootstrap${pluginFilename ? ` ${pluginFilename}` : ''} v${pkg.version} (${pkg.homepage})
-  * Copyright 2011-${year} ${pkg.author}
-  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
-  */`
-}
-
-export default getBanner
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6e2c3c5eb87f1a436b534f9dd338262a2c8141af593982eefccb5c7c2533185
+size 620

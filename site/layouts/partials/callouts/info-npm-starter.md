@@ -1,1 +1,3 @@
-**Get started with Bootstrap via npm with our starter project!** Head to the [Sass & JS example](https://github.com/twbs/examples/tree/main/sass-js) template repository to see how to build and customize Bootstrap in your own npm project. Includes Sass compiler, Autoprefixer, Stylelint, PurgeCSS, and Bootstrap Icons.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de2725bb615de01b64f98f066a8b2bb8748cacb2031e8b69b104763849996a91
+size 318

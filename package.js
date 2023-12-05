@@ -1,18 +1,3 @@
-// package metadata file for Meteor.js
-
-/* eslint-env meteor */
-
-Package.describe({
-  name: 'twbs:bootstrap', // https://atmospherejs.com/twbs/bootstrap
-  summary: 'The most popular front-end framework for developing responsive, mobile first projects on the web.',
-  version: '5.3.2',
-  git: 'https://github.com/twbs/bootstrap.git'
-})
-
-Package.onUse(api => {
-  api.versionsFrom('METEOR@1.0')
-  api.addFiles([
-    'dist/css/bootstrap.css',
-    'dist/js/bootstrap.js'
-  ], 'client')
-})
+version https://git-lfs.github.com/spec/v1
+oid sha256:0943bd93d21bac48e2c6e86f18593f85ba6201e44dfe68bc122ae2b7532b855a
+size 484

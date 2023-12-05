@@ -1,11 +1,3 @@
-body {
-  background-image: linear-gradient(180deg, var(--bs-secondary-bg), var(--bs-body-bg) 100px, var(--bs-body-bg));
-}
-
-.container {
-  max-width: 960px;
-}
-
-.pricing-header {
-  max-width: 700px;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4058af51de9c99bbf987c6f1614cf22f6b10d4d773cd4320886ab23ad2505db
+size 199

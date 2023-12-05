@@ -1,1 +1,3 @@
-Feel free to use either `title` or `data-bs-title` in your HTML. When `title` is used, Popper will replace it automatically with `data-bs-title` when the element is rendered.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff90f3641f0f157fbcce5e149b216f3a1fc9826f335f49724b8e1f4ba2aafb80
+size 175

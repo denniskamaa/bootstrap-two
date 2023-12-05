@@ -1,30 +1,3 @@
-// NOTICE!! DO NOT USE ANY OF THIS JAVASCRIPT
-// IT'S ALL JUST JUNK FOR OUR DOCS!
-// ++++++++++++++++++++++++++++++++++++++++++
-
-/*!
- * JavaScript for Bootstrap's docs (https://getbootstrap.com/)
- * Copyright 2011-2023 The Bootstrap Authors
- * Licensed under the Creative Commons Attribution 3.0 Unported License.
- * For details, see https://creativecommons.org/licenses/by/3.0/.
- */
-
-(() => {
-  'use strict'
-
-  // Scroll the active sidebar link into view
-  const sidenav = document.querySelector('.bd-sidebar')
-  const sidenavActiveLink = document.querySelector('.bd-links-nav .active')
-
-  if (sidenav && sidenavActiveLink) {
-    const sidenavHeight = sidenav.clientHeight
-    const sidenavActiveLinkTop = sidenavActiveLink.offsetTop
-    const sidenavActiveLinkHeight = sidenavActiveLink.clientHeight
-    const viewportTop = sidenavActiveLinkTop
-    const viewportBottom = viewportTop - sidenavHeight + sidenavActiveLinkHeight
-
-    if (sidenav.scrollTop > viewportTop || sidenav.scrollTop < viewportBottom) {
-      sidenav.scrollTop = viewportTop - (sidenavHeight / 2) + (sidenavActiveLinkHeight / 2)
-    }
-  }
-})()
+version https://git-lfs.github.com/spec/v1
+oid sha256:3880d843f78745808d55e106ef257b63bee4b89dfcfa47d061766b97f5bb9ad8
+size 1117

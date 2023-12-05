@@ -1,26 +1,3 @@
-- name: blue
-  hex: "#0d6efd"
-- name: indigo
-  hex: "#6610f2"
-- name: purple
-  hex: "#6f42c1"
-- name: pink
-  hex: "#d63384"
-- name: red
-  hex: "#dc3545"
-- name: orange
-  hex: "#fd7e14"
-- name: yellow
-  hex: "#ffc107"
-- name: green
-  hex: "#198754"
-- name: teal
-  hex: "#20c997"
-- name: cyan
-  hex: "#0dcaf0"
-- name: white
-  hex: "#fff"
-- name: gray
-  hex: "#6c757d"
-- name: gray-dark
-  hex: "#343a40"
+version https://git-lfs.github.com/spec/v1
+oid sha256:90211fb3284dfe6c2522ab6d73946656bfb35d7de2226fc5ee5d6c8e742ebbb6
+size 401

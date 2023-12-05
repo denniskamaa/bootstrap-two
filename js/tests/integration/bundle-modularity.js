@@ -1,9 +1,3 @@
-/* eslint-disable import/extensions, import/no-unassigned-import */
-
-import Tooltip from '../../dist/tooltip'
-import '../../dist/carousel'
-
-window.addEventListener('load', () => {
-  [].concat(...document.querySelectorAll('[data-bs-toggle="tooltip"]'))
-    .map(tooltipNode => new Tooltip(tooltipNode))
-})
+version https://git-lfs.github.com/spec/v1
+oid sha256:774422a3b2683a80c749eb71aa1ce8a8c1cddae060f390c830559e157a14bbf1
+size 305

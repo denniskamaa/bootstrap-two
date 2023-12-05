@@ -1,35 +1,3 @@
-- name: Mark Otto
-  user: mdo
-
-- name: Jacob Thornton
-  user: fat
-
-- name: XhmikosR
-  user: xhmikosr
-
-- name: GeoSot
-  user: geosot
-
-- name: Patrick H. Lauke
-  user: patrickhlauke
-
-- name: Julien Déramond
-  user: julien-deramond
-
-- name: Gaël Poupard
-  user: ffoodd
-
-- name: Rohit Sharma
-  user: rohit2sharma95
-
-- name: alpadev
-  user: alpadev
-
-- name: Martijn Cuppens
-  user: martijncuppens
-
-- name: Johann-S
-  user: johann-s
-
-- name: Gleb Mazovetskiy
-  user: glebm
+version https://git-lfs.github.com/spec/v1
+oid sha256:82f15c0f140a8e843f057b59b30d8bdbd7d0222efb50707c2994f623e5482586
+size 469

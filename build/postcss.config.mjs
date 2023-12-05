@@ -1,17 +1,3 @@
-const mapConfig = {
-  inline: false,
-  annotation: true,
-  sourcesContent: true
-}
-
-export default context => {
-  return {
-    map: context.file.dirname.includes('examples') ? false : mapConfig,
-    plugins: {
-      autoprefixer: {
-        cascade: false
-      },
-      rtlcss: context.env === 'RTL'
-    }
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9b85b094491b43e7374bccd7eec74c7d322b39c776eb3622975d6a2248253e3
+size 311

@@ -1,4 +1,3 @@
-contact_links:
-  - name: Ask the community
-    url: https://github.com/twbs/bootstrap/discussions/new
-    about: Ask and discuss questions with other Bootstrap community members.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69f1c30c47c7dc33516df4dae804b9872fe6803cda4a498917e38835ca47f8ce
+size 179

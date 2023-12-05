@@ -1,1 +1,3 @@
-**Accessibility tip:** Using color to add meaning only provides a visual indication, which will not be conveyed to users of assistive technologies like screen readers. Please ensure the meaning is obvious from the content itself (e.g., the visible text with a [*sufficient* color contrast](/docs/{{ .Site.Params.docs_version }}/getting-started/accessibility#color-contrast)) or is included through alternative means, such as additional text hidden with the `.visually-hidden` class.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a25bebb49b489189b7e58be8b157270041be365388d4c8870a749f66af52d492
+size 483

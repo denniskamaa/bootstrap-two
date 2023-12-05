@@ -1,1 +1,3 @@
-**Why subtract .02px?** Browsers don't currently support [range context queries](https://www.w3.org/TR/mediaqueries-4/#range-context), so we work around the limitations of [`min-` and `max-` prefixes](https://www.w3.org/TR/mediaqueries-4/#mq-min-max) and viewports with fractional widths (which can occur under certain conditions on high-dpi devices, for instance) by using values with higher precision.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f64c0f0a52467963c68d75a1a5bc54a047498bbd2804bc6b5943c4fdcb41d09a
+size 404
